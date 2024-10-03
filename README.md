@@ -1,0 +1,1 @@
+This is a stretch exercise. Stop reading message here.
